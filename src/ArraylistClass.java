@@ -17,8 +17,6 @@ public class ArraylistClass{
 
 
 
-
-
             l2.add(60);
 
             l1.addAll(0,l2);

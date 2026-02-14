@@ -9,8 +9,11 @@ public class LinkedlistClass {
         ll.add(30);
         ll.add(40);
         ll.add(1234567);
+
+
         for(int i : ll){
             System.out.println(i);
         }
     }
+
 }
