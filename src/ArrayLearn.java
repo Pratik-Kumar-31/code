@@ -8,6 +8,7 @@ public class ArrayLearn {
         System.out.println("Enter size for an arr1");
         int size=sc.nextInt();
         int[] arr1 = new int[size];
+
         System.out.println("enter elements");
         for(int i=0;i< arr1.length;i++){
             arr1[i]=sc.nextInt();
