@@ -9,7 +9,10 @@ public class HashSetDemo{
         set.add(100);
         set.add(100);
         set.add(200);
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8772049bbf722657ddd76796cce44f11223437fe
         System.out.println("Set : "+set);
 
         Set<String> set1 = new HashSet<String>();
