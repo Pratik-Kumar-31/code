@@ -11,15 +11,7 @@ public class ArraylistClass{
             l1.add(30);
             l2.add(40);
             l2.add(50);
-<<<<<<< HEAD
-
-
-
-
-
-
-=======
->>>>>>> 8772049bbf722657ddd76796cce44f11223437fe
+            l2.add(34);
             l2.add(60);
 
             l1.addAll(0,l2);
