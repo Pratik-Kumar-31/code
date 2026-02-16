@@ -7,7 +7,7 @@
         }
         public int getAge() {
 
-            
+
             return age;
         }
         public void setName (String name,int age){
@@ -19,7 +19,7 @@
 public class Encapsulation {
     public static void main(String[] args) {
         Student st = new Student();
-        st.setName("Pratik",23);
+        st.setName("sumit",98);
         System.out.println(st.getName());
         System.out.println(st.getAge());
     }

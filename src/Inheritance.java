@@ -5,7 +5,7 @@ class Animal{
 }
 class Lion extends Animal{
     void roar(){
-        System.out.println("Lion is roaring gjrgirjijgr");
+        System.out.println("Lion is  gjrgirjijgr");
     }
         }
 public class Inheritance {
